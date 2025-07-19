@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874509881867",
+    "project_id": "obatreminderapp",
+    "storage_bucket": "obatreminderapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874509881867:android:c96e991b55ab3d8f15ad0e",
+        "android_client_info": {
+          "package_name": "com.example.obatreminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoSBvX7JGVn4RXmpY0TJByr4WkTxfXM7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
